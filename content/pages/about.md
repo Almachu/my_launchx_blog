@@ -9,13 +9,10 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Soy Alma Cristina, tengo 45 años.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Uno de mis sueños es estudiar, así que asiendo caso dela frase “Nunca es tarde para aprender”, me di a la tarea de estudiar, no ha sido fácil, pero voy paso a pasito, ya terminé el nivel medio superior en el 2021, ahora voy por la Licenciatura y la carrera que más me llamo la atención fue el desarrollo de software, con la oportunidad de LaunchX, veo que no me equivoque y es lo que quiero hacer.
+
+Hasta luego, más adelante les contare como voy en esta aventura y experiencia.
+
 
