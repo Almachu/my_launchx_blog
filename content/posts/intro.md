@@ -5,5 +5,6 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ---
 
 ¡Hola!
+
 Para mí la cultura de un desarrollador de software es amar lo que se hace y ser feliz con esos resultados y de ahí partir, ya que los valores, la educación aprendida desde casa y en la escuela al aplicaras en el desarrollo, más el tener compromiso, innovar, emprender eso nos dará como resultado una divertida profesión en nuestra vida.
 
